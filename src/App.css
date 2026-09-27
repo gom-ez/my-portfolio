@@ -161,7 +161,7 @@ a {
   align-items: center;
 }
 
-.main-button,
+.,
 .learn-button {
   display: inline-flex;
   align-items: center;
@@ -193,7 +193,7 @@ a {
   background: rgba(22, 131, 255, 0.12);
 }
 
-/* ================================
+/* ================================main-button
    CYBER IMAGE
 ================================ */
 
